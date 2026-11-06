@@ -1,0 +1,13 @@
+# Maxfiy kalitlar va tokenlar
+.env
+
+# Kutubxonalar
+node_modules/
+
+# Eski baza fayli
+database.db
+*.sqlite*
+
+# Tizim fayllari
+.DS_Store
+Thumbs.db
